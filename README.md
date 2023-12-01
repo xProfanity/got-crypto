@@ -1,19 +1,4 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png" alt="Banner" width="100%" />
-</div>
-
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Gerrard Carrey</h1>
-
-<h2 align="center">Web Developer, Leetcode Grinder</h2>
-
-I discovered web development in one year now, been learning web development practices ever since and of course I'm better than when I started LOL. I enjoy coding everything in JS. And no I have 0 work experience since I am rookie I guess, but I do need a senior dev to take me under their wing to learn from them, that would be great. I grind leetcode problems to improve my Logic, DSA, and Algorithms. I'm about to consistently build project solely on frontend to improve on that part.
-
-* 🌍 I'm based in Blantyre, Malawi
-* ✉️ You can contact me at [pecpalmplay@gmail.com](mailto:pecpalmplay@gmail.com)
-* 🧠 I'm learning next.js, sveltekit, appwrite
-* 🤝 I'm open to collaborating on literary any project there is, let's go!
-
-<div align="center">
     <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="480" />
 </div>
 
@@ -23,6 +8,11 @@ I discovered web development in one year now, been learning web development prac
     src="https://img.shields.io/twitter/follow/gerrardafk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
     /></a>
 </div>
+
+
+<p align="center" width="550px">
+    I discovered <b>web development</b> in one year now🎉, been learning web development practices ever since and of course <b>I'm better than when I started</b> LOL🤹‍♀️. I enjoy coding everything in JS🤓. And no I have <b>0 years work experience</b> since I am rookie I guess🥔, but I do need a senior dev to take me under their wing👨‍👦👩‍👦 to learn from them, that would be great. I grind leetcode problems to improve my Logic, DSA, and Algorithms💻. I'm about to consistently build project solely on frontend🌈 to improve on that part.
+</p>
 
 <div align="center">
   <h2>Skills</h2>
